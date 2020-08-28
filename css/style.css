@@ -1,0 +1,46 @@
+body {
+	background-image: url('img/war.webp');
+	background-position: center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #2239D5;
+	text-decoration: none;
+}
+
+.container {
+	/* margin-left: 575px;
+	margin-top: 250px;  */
+	display: table;
+	margin: 15% auto;
+	
+}
+
+.content_brand {
+	font-family: 'Monotype Corsiva', cursive;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	color: white;
+}
+
+.content_text {
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	font-family: "Lucida Console", monospace;
+	letter-spacing: 2px;
+}
+
+@media (max-width: 320px;) {
+
+}
