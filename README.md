@@ -6,3 +6,4 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java?logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=Javascript)
