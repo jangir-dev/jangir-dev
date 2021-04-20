@@ -10,5 +10,5 @@
 
 
 ## Follow me
-[!Telegram](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=telegram)(https://t.me/janjjy)
-[!Linkedin](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=linkedin)(https://linkedin.com/zhangir-ospanov)
+![Telegram](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=telegram)(https://t.me/janjjy)
+![Linkedin](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=linkedin)(https://linkedin.com/zhangir-ospanov)
