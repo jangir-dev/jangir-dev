@@ -10,6 +10,6 @@
 
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/janjjy)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/zhangirr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zhangir-ospanov/)
 [![Codewars](https://img.shields.io/badge/-Codewars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/jangir-dev)
